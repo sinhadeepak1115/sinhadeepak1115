@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sinha</h1>
-<h3 align="center">A passionate Python from India</h3>
+<h3 align="center">A CSE Data Science Student from India</h3>
 
 - 🔭 I’m currently working on **Flask**
 
