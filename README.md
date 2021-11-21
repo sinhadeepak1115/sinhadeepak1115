@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sinhadeepak1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sinhadeepak1115" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak sinha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-sinha-55b64a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak sinha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16609228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16609228" height="30" width="40" /></a>
 <a href="https://fb.com/deepak kumar sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak kumar sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/deepu_sinha1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepu_sinha1115" height="30" width="40" /></a>
