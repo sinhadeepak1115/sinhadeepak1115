@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sinha</h1>
 <h3 align="center">A CSE Data Science Student from India</h3>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **100 Python Bootcamp -Angela Yu.**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sinhadeepak1115study@gmail.com**
 
-- ⚡ Fun fact **I use vim as my text editor.**
+- ⚡ Fun fact **I know it’s crazy, but I love to eat Biriyani and use vim as my text editor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
