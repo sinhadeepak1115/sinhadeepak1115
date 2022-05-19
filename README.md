@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **React, Flask ,Nodejs.**
 
-- 🤝 I’m looking for help with [Pyhton](Next.js)
+- 🤝 I’m looking for help with [Python](Next.js)
 
 - 📫 How to reach me **sinhadeepak1115study@gmail.com**
 
